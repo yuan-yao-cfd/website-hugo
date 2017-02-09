@@ -1,0 +1,4 @@
+[submodule "my_website/public"]
+	path = my_website/public
+	url = http://github.com/yuan-yao-cfd/yuan-yao-cfd.github.io.git
+	branch = master
