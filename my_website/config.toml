@@ -1,5 +1,5 @@
-baseurl = "https://example.com"
-title = "Academic"
+baseurl = "https://yuan-yao-cfd.github.io"
+title = "Computing Changes the World"
 copyright = "&copy; 2016 Your Name"
 theme = "academic"
 enableEmoji = true
@@ -19,9 +19,9 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
-  organization = "Stanford University"
+  name = "Yuan Yao"
+  role = "Graduate Student of Computational Fluid Dynamics"
+  organization = "University of Michigan"
   organization_url = ""
   avatar = "portrait.jpg"
   email = "test@example.org"
