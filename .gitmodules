@@ -2,3 +2,6 @@
 	path = my_website/public
 	url = http://github.com/yuan-yao-cfd/yuan-yao-cfd.github.io.git
 	branch = master
+[submodule "my_website/themes/ananke"]
+	path = my_website/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
