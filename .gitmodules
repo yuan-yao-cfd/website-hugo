@@ -8,3 +8,7 @@
 [submodule "my_website/themes/hugo-coder"]
 	path = my_website/themes/hugo-coder
 	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "my_website_v2/public"]
+	path = my_website_v2/public
+	url = https://github.com/yuan-yao-cfd/yuan-yao-cfd.github.io.git
+	branch = master
